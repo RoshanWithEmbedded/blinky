@@ -82,7 +82,7 @@ Blinky is an interactive desk companion built on ESP32 that displays emotions th
 | **Wires** | Jumper wires | 4-6 |
 
 ### 💰 Estimated Cost
-- **Total:** $10-15 USD (varies by region)
+- **Total:** 850 Rs (varies by region)
 
 ---
 
